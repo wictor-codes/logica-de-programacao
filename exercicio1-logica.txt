@@ -8,3 +8,12 @@ Passos:
 2. Ler o segundo número
 3. Somar os dois.
 4. Mostrar o resultado.
+
+
+Versão em Python:
+
+número1 = float(input("Digite o primeiro número: "))
+número2 = float(input("Digite o segundo número: "))
+
+soma = número1 + número2 
+print("A soma dos dois números é:", soma)
