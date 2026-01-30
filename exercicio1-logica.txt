@@ -1,0 +1,10 @@
+Exercício 1 - Lógica de Programação
+
+Objetivo:
+Criar um algoritmo que receba dois números e mostre a soma deles.
+
+Passos:
+1. Ler o primeiro número
+2. Ler o segundo número
+3. Somar os dois.
+4. Mostrar o resultado.
