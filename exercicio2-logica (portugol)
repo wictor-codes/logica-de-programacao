@@ -1,0 +1,21 @@
+Exercicio 2
+
+Objetivo:
+criar um algortimo para reforçar estudo em variáveis, identificadores e atribuição.
+
+
+
+em portugol:
+
+var
+nota: real
+aluno: caractere
+
+inicio
+aluno<- wictor
+nota<- 9.5
+escreva("o aluno ",aluno, " atingiu a nota ",nota, " no teste.")
+
+fim algoritmo
+
+saída: o aluno wictor atingiu a nota 9.5 no teste.
