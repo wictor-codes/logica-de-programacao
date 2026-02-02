@@ -12,10 +12,13 @@ nota: real
 aluno: caractere
 
 inicio
-aluno<- wictor
+aluno<- "wictor"
 nota<- 9.5
-escreva("o aluno ",aluno, " atingiu a nota ",nota, " no teste.")
+escreval("o aluno ",aluno, " atingiu a nota ",nota, " no teste.")
+escreva("Obrigado pelo acesso!")
 
 fim algoritmo
 
-saída: o aluno wictor atingiu a nota 9.5 no teste.
+saída:
+o aluno wictor atingiu a nota 9.5 no teste.
+Obrigado pelo acesso!
